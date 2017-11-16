@@ -1,0 +1,24 @@
+# Schematic back-up file
+*.bak
+
+# Backup file for the symbol editor of the .dcm file.
+*.bck
+
+# Layout back-up file
+*.kicad_pcb-bak
+
+# DRC violations report
+.rpt
+
+# Unconnected nets report
+.rpt.rpt
+
+# Netlist in "PcbNew" format; can be generated with "Generate netlist" tool
+*.net
+
+# "Intermediate Netlist" used in BOM creation; can be generated with "Generate BOM" tool
+*.xml
+
+# Temporary file
+*.000
+
